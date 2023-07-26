@@ -46,29 +46,29 @@
 <p>Audio. Visual. Digital.</p>
 
 
-<form name={formLocation}
-	  method="POST" netlify-honeypot="bot-field" data-netlify="true">
-	<input type="hidden" name="form-name" value={formLocation} />
+<!--<form name={formLocation}-->
+<!--	  method="POST" netlify-honeypot="bot-field" data-netlify="true">-->
+<!--	<input type="hidden" name="form-name" value={formLocation} />-->
 
-	<div id="name-section">
-		<label for="name">Name</label>
-		<input name="name" id="name" required placeholder="Name" type="text" />
-	</div>
+<!--	<div id="name-section">-->
+<!--		<label for="name">Name</label>-->
+<!--		<input name="name" id="name" required placeholder="Name" type="text" />-->
+<!--	</div>-->
 
-	<div id='email-section'>
-		<label for="email">Email</label>
-		<input name="email" id="email" required placeholder="Email" type="email" />
-	</div>
+<!--	<div id='email-section'>-->
+<!--		<label for="email">Email</label>-->
+<!--		<input name="email" id="email" required placeholder="Email" type="email" />-->
+<!--	</div>-->
 
-	<div>
-		<label for="message">Message</label>
-		<textarea name="message" id="message" required placeholder="Message" type="text" ></textarea>
-	</div>
+<!--	<div>-->
+<!--		<label for="message">Message</label>-->
+<!--		<textarea name="message" id="message" required placeholder="Message" type="text" ></textarea>-->
+<!--	</div>-->
 
-	<div>
-		<input type="submit" class="btn btn-primary" value="Send" />
-	</div>
-</form>
+<!--	<div>-->
+<!--		<input type="submit" class="btn btn-primary" value="Send" />-->
+<!--	</div>-->
+<!--</form>-->
 
 <style lang="scss">
 
