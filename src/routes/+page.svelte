@@ -14,20 +14,20 @@
 
 
 <script context="module">
-	export const load = async () => {
-		const ReadMeFile = await import('../../README.md');
-		const ReadMe = ReadMeFile.default;
+	// export const load = async () => {
+		// const ReadMeFile = await import('../../README.md');
+		// const ReadMe = ReadMeFile.default;
 
-		return {
-			props: {
-				ReadMe
-			}
-		}
-	}
+		// return {
+		// 	props: {
+				// ReadMe
+			// }
+		// }
+	// }
 </script>
 
 <script>
-	export let ReadMe
+	// export let ReadMe
 	export let formLocation = ""
 </script>
 
