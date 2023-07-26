@@ -1,5 +1,5 @@
 // import { error } from '@sveltejs/kit'
-y
+// y
 // export const load = async () => {
 // 	try {
 // 		const ReadMeFile = await import('../../README.md')
